@@ -69,8 +69,6 @@
 </p>
 
 <br/>
-<br/>
-<br/>
 
 ## Use To Code
 
@@ -110,11 +108,15 @@
   </a>
 </p>
 
+<br/><br/>
+
 <a> 
-    <a href="[https://github.com/naveen-7000](https://github.com/Krishnasingh13)"><img alt="Krishna singh Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Krishnasingh13&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Krishnasingh13"><img alt="Krishna singh Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Krishnasingh13&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Krishnasingh13&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+
+<br/><br/>
 
 
 ![Krishna singh Graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishnasingh13&custom_title=Krishna%20Singh%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
